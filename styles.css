@@ -1,0 +1,11 @@
+body {  
+    background: #FFF5EE;  
+    font-family: 'Courier New', monospace;  
+    text-align: center;  
+}  
+.pet-card {  
+    border: 3px dotted #FFB6C1;  
+    padding: 15px;  
+    margin: 10px;  
+    display: inline-block;  
+}  
